@@ -1,3 +1,5 @@
+![](bitcoinsavings.png)
+
 # Solidity-Smart-Contracts
 
 Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
